@@ -1,11 +1,10 @@
 # wfdownloader-quick-links
-WFDownloader quick links
 The WFDownloader software is a type of downloader that allows you easily bulk download any kind of file such as images, videos, documents, attachments, etc., from a lot of supported sites but it can work on almost any website if you use its advanced features. It is free and cross-platform so it works on Windows, Mac and Linux.
 
-[Official website](https://www.wfdownloader.xyz/)
-[Download page](https://www.wfdownloader.xyz/download)
-[FAQ](https://www.wfdownloader.xyz/faq)
-[Sample usage](https://www.youtube.com/watch?v=TYXmSEyHGA0)
+[Official website](https://www.wfdownloader.xyz/)&nbsp;&nbsp;
+[Download page](https://www.wfdownloader.xyz/download)&nbsp;&nbsp;
+[FAQ](https://www.wfdownloader.xyz/faq)&nbsp;&nbsp;
+[Sample usage](https://www.youtube.com/watch?v=TYXmSEyHGA0)&nbsp;&nbsp;
 [WFDownloader scripts](https://github.com/notarom/wfdownloader-script)
 
 # Main Window
@@ -41,5 +40,5 @@ Other screenshots [here](https://www.wfdownloader.xyz/features).
 
 # Contact
 For help, the best way is to write an email to support [at] wfdownloader.xyz. For other ways:
-[Twitter](https://twitter.com/wfdownloader)
-[Contact form](https://www.wfdownloader.xyz/contact)
+- [Twitter](https://twitter.com/wfdownloader)
+- [Contact form](https://www.wfdownloader.xyz/contact)
