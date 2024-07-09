@@ -38,6 +38,17 @@ Other screenshots [here](https://www.wfdownloader.xyz/features).
 -   Allows [categorization](https://www.wfdownloader.xyz/blog_images/multiple_layers_of_batch_categories.png) and [sorting of batches](https://www.wfdownloader.xyz/blog_images/sorting_of_batches_in_wfdownloader_app.png) for easy management.
 - And it's still free, also cross-platform.
 
+# Quick tutorials
+- [How to use tutorial](https://www.wfdownloader.xyz/blog/how-to-use-wfdownloader-app)
+- [Instagram downloader tutorial](https://www.wfdownloader.xyz/blog/instagram-profile-downloader)
+- [Twitter/X downloader tutorial](https://www.wfdownloader.xyz/blog/twitter-downloader-for-images-and-videos)
+- [Pinterest downloader tutorial](https://www.wfdownloader.xyz/blog/how-to-bulk-download-images-and-videos-from-pinterest)
+- [Mastodon downloader tutorial](https://www.wfdownloader.xyz/blog/mastodon-downloader-for-images-and-videos)
+- [Bluesky downloader tutorial](https://www.wfdownloader.xyz/blog/bluesky-downloader-for-getting-all-images-at-once)
+- [Deviantart downloader tutorial](https://www.wfdownloader.xyz/blog/how-to-bulk-download-deviantart-images-and-videos-via-api)
+- [Artstation downloader tutorial](https://www.wfdownloader.xyz/blog/artstation-bulk-downloader)
+- [Bing and Google search download tutorial](https://www.wfdownloader.xyz/blog/how-to-bulk-download-images-from-google-and-bing-search-engines)
+
 # Contact
 For help, the best way is to write an email to support [at] wfdownloader.xyz. For other ways:
 - [Twitter](https://twitter.com/wfdownloader)
