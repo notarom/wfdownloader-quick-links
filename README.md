@@ -11,6 +11,9 @@ The WFDownloader software is a type of downloader that allows you easily bulk do
 ![WFDownloader main window](https://www.wfdownloader.xyz/images/screenshots/wfdownloader_app_main_window_900px_v4.png)
 Other screenshots [here](https://www.wfdownloader.xyz/features).
 
+# Quick usage illustration
+![Quick usage illustration](https://www.wfdownloader.xyz/blog_images/wfdownloader_app_demo_usage.png)
+
 # Features
 -   Can  [batch download a list of links](https://www.wfdownloader.xyz/blog/how-to-batch-download-a-list-of-urls)  from clipboard or files.
 -   Allows  [generation of sequential files](https://www.wfdownloader.xyz/tutorial/how-to-add-batch-download-for-items-with-similar-patterns)  and downloading them as a batch (fusker links).
@@ -40,6 +43,7 @@ Other screenshots [here](https://www.wfdownloader.xyz/features).
 
 # Quick tutorials
 - [How to use tutorial](https://www.wfdownloader.xyz/blog/how-to-use-wfdownloader-app)
+- [WFDownloader Programming/Scripting tutorial](https://www.wfdownloader.xyz/blog/how-to-program-wfdownloader-app-introduction)
 - [Instagram downloader tutorial](https://www.wfdownloader.xyz/blog/instagram-profile-downloader)
 - [Twitter/X downloader tutorial](https://www.wfdownloader.xyz/blog/twitter-downloader-for-images-and-videos)
 - [Pinterest downloader tutorial](https://www.wfdownloader.xyz/blog/how-to-bulk-download-images-and-videos-from-pinterest)
@@ -47,6 +51,10 @@ Other screenshots [here](https://www.wfdownloader.xyz/features).
 - [Bluesky downloader tutorial](https://www.wfdownloader.xyz/blog/bluesky-downloader-for-getting-all-images-at-once)
 - [Deviantart downloader tutorial](https://www.wfdownloader.xyz/blog/how-to-bulk-download-deviantart-images-and-videos-via-api)
 - [Artstation downloader tutorial](https://www.wfdownloader.xyz/blog/artstation-bulk-downloader)
+- [Ultimate X/Twitter downloader tutorial](https://www.wfdownloader.xyz/blog/ultimate-xtwitter-media-downloader-tutorial)
+- [Ultimate Pinterest downloader tutorial](https://www.wfdownloader.xyz/blog/ultimate-pinterest-downloader-tutorial-for-all-images-and-videos)
+- [Ultimate Instagram bulk downloader tutorial](https://www.wfdownloader.xyz/blog/free-instagram-bulk-downloader-for-images-and-videos)
+- [X/Twitter followers/following data export tutorial](https://www.wfdownloader.xyz/blog/how-to-export-xtwitter-followers-or-following-for-free)
 - [Bing and Google search download tutorial](https://www.wfdownloader.xyz/blog/how-to-bulk-download-images-from-google-and-bing-search-engines)
 
 # Contact
