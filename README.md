@@ -32,6 +32,7 @@ Other screenshots [here](https://www.wfdownloader.xyz/features).
 -   Can download from password-protected sites by allowing either browser cookie import or logging in via its built-in browser.
 -   Can  [download from open directories](https://www.youtube.com/watch?v=EKHSFIkhato) whether full or partial depending on what you want.
 -   Has special support for downloading various media (i.e. images, videos, documents, etc.)  [from forum threads](https://www.youtube.com/watch?v=jEhbziYlQy8).
+-   Can also completely archive the forum threads, along with their media for offline reading later without internet.
 -   Comes with a  [configurable crawler](https://www.youtube.com/watch?v=fwpGVVHpErE)  for advanced link search.
 -   A downloader for programmers. It can be  [programmed to download any kind of file](https://www.reddit.com/user/wfdownloader/comments/uuab6w/how_to_program_wfdownloader_app/)  whether images, videos, documents, etc., using concise code/syntax.
 -   Can be [extended by anyone to support new websites](https://imgur.com/a/how-to-export-wfdownloader-app-setting-forum-crawler-programmable-mode-xfRP34K) and allows the settings to be shared with others easily.
@@ -39,6 +40,8 @@ Other screenshots [here](https://www.wfdownloader.xyz/features).
 -   Powerful filter system so that you can extract just the links you want e.g. by URL pattern, file size, etc.
 -   Allows exporting links found in case you want to use in other applications e.g. spreadsheet apps like MS Excel.
 -   Allows [categorization](https://www.wfdownloader.xyz/blog_images/multiple_layers_of_batch_categories.png) and [sorting of batches](https://www.wfdownloader.xyz/blog_images/sorting_of_batches_in_wfdownloader_app.png) for easy management.
+-   Can download HLS/M3U8 videos (both media and master playlists) when given an m3u8 link, via its inbuilt downloader with resume support capability.
+-   Can download RSS feeds and podcast channels. Also allows quick updating via a click to fetch new content.
 - And it's still free, also cross-platform (will work on Windows, macOS, and Linux).
 
 # Quick tutorials
