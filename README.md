@@ -32,7 +32,7 @@ Other screenshots [here](https://www.wfdownloader.xyz/features).
 -   Can download from password-protected sites by allowing either browser cookie import or logging in via its built-in browser.
 -   Can  [download from open directories](https://www.youtube.com/watch?v=EKHSFIkhato) whether full or partial depending on what you want.
 -   Has special support for downloading various media (i.e. images, videos, documents, etc.)  [from forum threads](https://www.youtube.com/watch?v=jEhbziYlQy8).
--   Can also completely archive the forum threads, along with their media for offline reading later without internet.
+-   Can also completely [archive the forum threads](https://www.wfdownloader.xyz/blog/how-to-downloadsave-an-entire-forum-thread-for-offline-viewing), along with their media for offline reading later without internet.
 -   Comes with a  [configurable crawler](https://www.youtube.com/watch?v=fwpGVVHpErE)  for advanced link search.
 -   A downloader for programmers. It can be  [programmed to download any kind of file](https://www.reddit.com/user/wfdownloader/comments/uuab6w/how_to_program_wfdownloader_app/)  whether images, videos, documents, etc., using concise code/syntax.
 -   Can be [extended by anyone to support new websites](https://imgur.com/a/how-to-export-wfdownloader-app-setting-forum-crawler-programmable-mode-xfRP34K) and allows the settings to be shared with others easily.
