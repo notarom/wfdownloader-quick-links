@@ -48,6 +48,7 @@ Other screenshots [here](https://www.wfdownloader.xyz/features).
 - [How to use tutorial](https://www.wfdownloader.xyz/blog/how-to-use-wfdownloader-app)
 - [WFDownloader Programming/Scripting tutorial](https://www.wfdownloader.xyz/blog/how-to-program-wfdownloader-app-introduction)
 - [How to scrape and download all media and attachments in any forum thread](https://www.wfdownloader.xyz/tutorial/how-to-bulk-download-images-videos-documents-and-other-media-from-forum-threads)
+- [How to save entire forum threads for offline viewing later](https://www.wfdownloader.xyz/blog/how-to-downloadsave-an-entire-forum-thread-for-offline-viewing)
 - [Instagram downloader tutorial](https://www.wfdownloader.xyz/blog/instagram-profile-downloader)
 - [Twitter/X downloader tutorial](https://www.wfdownloader.xyz/blog/twitter-downloader-for-images-and-videos)
 - [Pinterest downloader tutorial](https://www.wfdownloader.xyz/blog/how-to-bulk-download-images-and-videos-from-pinterest)
