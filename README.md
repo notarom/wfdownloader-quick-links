@@ -44,7 +44,7 @@ Other screenshots [here](https://www.wfdownloader.xyz/features).
 -   Can download RSS feeds and podcast channels. Also allows quick updating via a click to fetch new content.
 - And it's still free, also cross-platform (will work on Windows, macOS, and Linux).
 
-# Quick tutorials
+# Quick tutorials (Full index - [here](https://github.com/notarom/wfdownloader-quick-links/blob/main/Tutorials.md))
 - [How to use tutorial](https://www.wfdownloader.xyz/blog/how-to-use-wfdownloader-app)
 - [WFDownloader Programming/Scripting tutorial](https://www.wfdownloader.xyz/blog/how-to-program-wfdownloader-app-introduction)
 - [How to scrape and download all media and attachments in any forum thread](https://www.wfdownloader.xyz/tutorial/how-to-bulk-download-images-videos-documents-and-other-media-from-forum-threads)
